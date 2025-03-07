@@ -40,11 +40,11 @@ tokenizer.save_pretrained("./models")
 
 Start the Flask server:
 
-python app.py
+  python app.py
 
 The API will be available at:
 
-http://127.0.0.1:5002
+  http://127.0.0.1:5002
 
 📡 API Usage
 
